@@ -3,11 +3,7 @@
 ## Basic information
 
 - Date: Dec. 2019
-- Description: The is a time series method for CVT voltage data. By monitoring the data collected by data acquisition devices, the algorithm is used to forecast the errors of CVT.
-
-## Requirements
-
-- Anaconda
+- Description: The is a time series analysis method for CVT voltage data. By monitoring the data collected by data acquisition devices, the algorithm is used to forecast the errors of CVT.
 
 ## Related accomplishments
 
